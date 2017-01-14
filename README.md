@@ -1,3 +1,4 @@
 # hello-world
 Learning GitHub
-learning how to create a branch, make changes and commit those changes.
+Learning how to create a branch, make changes and commit those changes.
+Seeing if I remember how to open and merge a pull request.
